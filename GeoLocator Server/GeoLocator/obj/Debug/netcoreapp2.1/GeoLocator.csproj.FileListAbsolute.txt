@@ -1,0 +1,28 @@
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.deps.json
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.runtimeconfig.json
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.runtimeconfig.dev.json
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.dll
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.pdb
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.csprojAssemblyReference.cache
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.csproj.CoreCompileInputs.cache
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.RazorAssemblyInfo.cache
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.RazorAssemblyInfo.cs
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.AssemblyInfoInputs.cache
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.AssemblyInfo.cs
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.RazorTargetAssemblyInfo.cache
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.dll
+C:\Users\DaChr\source\repos\GeoLocator\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.pdb
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.deps.json
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.runtimeconfig.json
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.runtimeconfig.dev.json
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.dll
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\bin\Debug\netcoreapp2.1\GeoLocator.pdb
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.csprojAssemblyReference.cache
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.csproj.CoreCompileInputs.cache
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.RazorAssemblyInfo.cache
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.RazorAssemblyInfo.cs
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.AssemblyInfoInputs.cache
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.AssemblyInfo.cs
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.RazorTargetAssemblyInfo.cache
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.dll
+C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\obj\Debug\netcoreapp2.1\GeoLocator.pdb
