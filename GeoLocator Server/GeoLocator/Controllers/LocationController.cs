@@ -52,7 +52,7 @@ namespace GeoLocator.Controllers
             {
                 return NotFound();
             }
-            string path = @"C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\LocationSaves.txt";
+            string path = @"Your Path";
 ;
 
             string text = "IMEI= " + data.IMEI +  "  " + "Longitude= " + data.Longetude + "  " + "Latitude= " + data.Latetude + "  " + "Time= " + DateTime.Now.ToString("HH:mm:ss") + "|";
@@ -81,7 +81,7 @@ namespace GeoLocator.Controllers
             string lng= "";
             string lat= "";
 
-            string filePath = @"C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\LocationSaves.txt"
+            string filePath = "Your Path"
             ;
             var filestream = new FileStream(filePath,FileMode.Open,FileAccess.Read,FileShare.ReadWrite);
             const Int32 BufferSize = 128;
