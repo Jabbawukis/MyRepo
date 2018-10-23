@@ -135,7 +135,7 @@ namespace GeoLocator.Controllers
             string lat = "";
             string time ="";
 
-            string filePath = @"C:\Users\Dan-PC\source\repos\GeoLocator Server\GeoLocator\LocationSaves.txt"
+            string filePath = @"Your Path"
 ;
             var filestream = new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
             const Int32 BufferSize = 128;
